@@ -16,3 +16,4 @@ created that address common technical stack patterns and automation.
 
 ## Automation
 * [Run Multiple iOS Simulators and Android Emulators](https://github.com/hoff2-ACN/multi-emulators)
+* [React Native with Github Actions CI](https://github.com/aclifton-pillar/react-native-with-ci)
