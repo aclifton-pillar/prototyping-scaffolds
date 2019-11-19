@@ -15,3 +15,4 @@ created that address common technical stack patterns and automation.
 * [Testing-Library/React versus Enzyme](https://github.com/hoff2-ACN/multi-emulators#testing-libraryreact-versus-enzyme)
 
 ## Automation
+* [Run Multiple iOS Simulators and Android Emulators](https://github.com/hoff2-ACN/multi-emulators)
