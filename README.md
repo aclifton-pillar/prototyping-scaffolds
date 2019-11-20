@@ -13,6 +13,7 @@ created that address common technical stack patterns and automation.
 * [Websocket with Redux (Third-Party Library)](https://github.com/aclifton-pillar/react-native-websocket-middleware-third-party)
 * [Websocket with Redux (Our Own Implementation)](https://github.com/aclifton-pillar/react-native-websocket-middleware-scaffold)
 * [Testing-Library/React versus Enzyme](https://github.com/hoff2-ACN/multi-emulators#testing-libraryreact-versus-enzyme)
+* [ExpressJS Backend with Websocket](https://github.com/hoff2-ACN/express-scaffold)
 
 ## Automation
 * [Run Multiple iOS Simulators and Android Emulators](https://github.com/hoff2-ACN/multi-emulators)
